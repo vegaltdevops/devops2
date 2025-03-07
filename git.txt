@@ -3,3 +3,9 @@ Git Configuration
 	git config --global user.name "Your Name" ----> Sets your global username for Git commits.
 	git config --global user.email "your_email@example.com" -----> Sets your global email for Git commits.
 	git config --list ----> Displays the current Git configuration.
+
+HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/dev/devops2 (main)
+$ git pull
+Already up to date.
+
+
