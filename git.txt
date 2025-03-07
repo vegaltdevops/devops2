@@ -9,3 +9,7 @@ $ git pull
 Already up to date.
 
 
+
+HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/dev/devops2 (main)
+$ git stash
+Saved working directory and index state WIP on main: cb17503  modified textin main
