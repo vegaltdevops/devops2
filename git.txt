@@ -13,3 +13,17 @@ Already up to date.
 HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/dev/devops2 (main)
 $ git stash
 Saved working directory and index state WIP on main: cb17503  modified textin main
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   git.txt
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   git.txt
+HOME@DESKTOP-QEP1EOQ MINGW64 ~/OneDrive/Desktop/dev/devops2 (main)
+$ git stash
+Saved working directory and index state WIP on main: cb17503  modified textin main
